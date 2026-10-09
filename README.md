@@ -6,3 +6,7 @@ Included notebooks:
 2. Preprocessing of py-eddy-tracker output for eddy fluctuating kinetic energy FKE calculation
 3. Eddy FKE calculation (decomposition)
 4. Eddy intensity (conditional mean) calculation
+
+
+ADD WHERE TO FIND THE DATA.
+MAYBE ADD LITTLE EXAMPLE DATA WITH NICE PATHS.
