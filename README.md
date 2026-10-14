@@ -7,10 +7,8 @@ Included notebooks:
 3. Eddy FKE calculation (decomposition)
 4. Eddy intensity (conditional mean) calculation
 
-
-
 WHAT WILL BE ADDED:
 1. example data
 2. changes paths in the notebooks for the small example data
 3. where to find the full data
-4. how to calculate fke notebook. 
+4. how to calculate fke notebook
