@@ -8,5 +8,9 @@ Included notebooks:
 4. Eddy intensity (conditional mean) calculation
 
 
-ADD WHERE TO FIND THE DATA.
-MAYBE ADD LITTLE EXAMPLE DATA WITH NICE PATHS.
+
+WHAT WILL BE ADDED:
+1. example data
+2. changes paths in the notebooks for the small example data
+3. where to find the full data
+4. how to calculate fke notebook. 
