@@ -9,7 +9,5 @@ Included notebooks:
 5. daily FKE calculation from model and observational data
 
 WHAT WILL BE ADDED:
-1. example data
-2. changes paths in the notebooks for the small example data
-3. where to find the full data
+- where to find the full data
 
